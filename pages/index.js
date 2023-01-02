@@ -52,7 +52,9 @@ export default function Home() {
               <li>
                 <a
                   className="font-lora bg-gradient-to-r from-pink to-blue text-whitesmoke px-4 py-2 rounded-md ml-8"
-                  href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d7d306c3-2165-3421-9e27-eae1f53d5b45"
+                  href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2bccd935-618a-3b1b-98c6-fead4d614f19"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   Resume
                 </a>
@@ -68,10 +70,18 @@ export default function Home() {
             </h3>
           </div>
           <div className="text-5xl flex justify-center gap-5 py-3 text-gray-600 dark:text-whitesmoke">
-            <a href="https://www.linkedin.com/in/amandaroj/">
+            <a
+              href="https://www.linkedin.com/in/amandaroj/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <AiFillLinkedin />
             </a>
-            <a href="https://github.com/amandaroj">
+            <a
+              href="https://github.com/amandaroj"
+              target="_blank"
+              rel="noreferrer"
+            >
               {" "}
               <AiFillGithub />
             </a>
@@ -177,12 +187,16 @@ export default function Home() {
                 <div className="flex justify-between">
                   <a
                     className="font-lora bg-gradient-to-r from-pink to-blue text-white text-sm p-2 rounded-md hover:brightness-110"
+                    target="_blank"
+                    rel="noreferrer"
                     href="http://www.foodvisualizer.com/"
                   >
                     View Live
                   </a>
                   <a
                     className="font-lora p-1 bg-gradient-to-tr from-blue to-pink rounded-md hover:brightness-110"
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/amandaroj/FoodVisualizer"
                   >
                     <div className="bg-white rounded-md p-1 text-gray-500 text-sm">
@@ -210,13 +224,17 @@ export default function Home() {
                 <div className="flex justify-between">
                   <a
                     className="font-lora bg-gradient-to-r from-pink to-blue text-white text-sm p-2 rounded-md hover:brightness-110"
-                    href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d7d306c3-2165-3421-9e27-eae1f53d5b45"
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://camper-rental.herokuapp.com/"
                   >
                     View Live
                   </a>
                   <a
                     className="font-lora p-1 bg-gradient-to-tr from-blue to-pink rounded-md hover:brightness-110"
-                    href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d7d306c3-2165-3421-9e27-eae1f53d5b45"
+                    target="_blank"
+                    rel="noreferrer"
+                    href="https://github.com/EvaHaverkort/camper-rental"
                   >
                     <div className="bg-white rounded-md p-1 text-gray-500 text-sm">
                       Source Code
@@ -246,12 +264,16 @@ export default function Home() {
                 <div className="flex justify-between">
                   <a
                     className="font-lora bg-gradient-to-r from-pink to-blue text-white text-sm p-2 rounded-md hover:brightness-110"
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://amandaroj.github.io/calculator-app/"
                   >
                     View Live
                   </a>
                   <a
                     className="font-lora p-1 bg-gradient-to-tr from-blue to-pink rounded-md hover:brightness-110"
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/amandaroj/calculator-app"
                   >
                     <div className="bg-white rounded-md p-1 text-gray-500 text-sm">
@@ -283,12 +305,16 @@ export default function Home() {
                 <div className="flex justify-between">
                   <a
                     className="font-lora bg-gradient-to-r from-pink to-blue text-white text-sm p-2 rounded-md hover:brightness-110"
+                    target="_blank"
+                    rel="noreferrer"
                     href=" https://amandaroj.github.io/quote-generator/"
                   >
                     View Live
                   </a>
                   <a
                     className="font-lora p-1 bg-gradient-to-tr from-blue to-pink rounded-md hover:brightness-110"
+                    target="_blank"
+                    rel="noreferrer"
                     href="https://github.com/amandaroj/quote-generator"
                   >
                     <div className="bg-white rounded-md p-1 text-gray-500 text-sm">
