@@ -62,7 +62,7 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10">
-            <h2 className="text-5xl py-2 text-blue font-medium md:text-6xl font-poppins">
+            <h2 className="text-4xl py-2 text-blue font-medium md:text-6xl font-poppins ">
               Hi, I&apos;m Amanda 👋
             </h2>
             <h3 className="text-2xl py-2 md:text-3xl text-gray-600 dark:text-whitesmoke font-poppins">
