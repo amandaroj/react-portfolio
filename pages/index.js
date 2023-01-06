@@ -52,7 +52,7 @@ export default function Home() {
               <li>
                 <a
                   className="font-lora bg-gradient-to-r from-pink to-blue text-whitesmoke px-4 py-2 rounded-md ml-8"
-                  href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2bccd935-618a-3b1b-98c6-fead4d614f19"
+                  href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:0da68d9b-bb5f-3102-8246-a67712dc6b29"
                   target="_blank"
                   rel="noreferrer"
                 >
