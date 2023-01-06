@@ -66,7 +66,7 @@ export default function Home() {
               Hi, I&apos;m Amanda 👋
             </h2>
             <h3 className="text-2xl py-2 md:text-3xl text-gray-600 dark:text-whitesmoke font-poppins">
-              Junior Frontend Developer
+              Junior Fullstack Developer
             </h3>
           </div>
           <div className="text-5xl flex justify-center gap-5 py-3 text-gray-600 dark:text-whitesmoke">
